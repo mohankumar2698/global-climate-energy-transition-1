@@ -2,4 +2,6 @@ pandas
 numpy
 matplotlib
 plotly
+seaborn
 jupyter
+scikit-learn
